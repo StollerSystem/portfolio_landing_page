@@ -9,7 +9,7 @@ https://StollerSystem.github.io/portfolio_landing_page/
 
 ## Description
 
-This is a project to demonstrate different HTML tags (such as p, h, ul, ol, li, em, strong, a, img, div, and span) and CSS styilizing (such as typography, cascading, the box model, and floats). Later it will function as a landing page for my programmig portfolio. 
+This is a project to demonstrate different HTML tags (such as p, h, ul, ol, li, em, strong, a, img, div, and span) and CSS stylizing (such as typography, cascading, the box model, and floats). Later it will function as a landing page for my programmig portfolio. 
 
 ## Setup/Installation Requirements
 
