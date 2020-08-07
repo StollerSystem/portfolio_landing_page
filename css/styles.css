@@ -14,13 +14,18 @@ img {
   font: larger;  
   color: white;
   text-align: center;
-  box-sizing: border-box
+  
 }
 
 .box1 {
+  margin: auto;
+  width: 75%;
+  padding: 20px;
   border: solid 5px white;
   color: white;
   background-color: black;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
 
 .projects {  
