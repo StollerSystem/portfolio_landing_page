@@ -1,5 +1,4 @@
-body {
-  
+body {  
   background-image: url("https://images.unsplash.com/photo-1534841090574-cba2d662b62e?ixlib=rb-1.2.1&auto=format&fit=crop&w=2134&q=80");
   opacity: 0.8;
   background-color: black;
@@ -12,7 +11,7 @@ body {
   box-shadow: 0 4px 4px 0 rgba(255, 254, 254, 0.897); 
   border-radius: 10px; 
   background-color: black;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   margin-top: 15px;
   box-sizing: border-box;
 }
@@ -40,6 +39,7 @@ body {
   font-family: fantasy;
   padding: 5px;
   margin: auto;
+  margin-left: 25px;
   font: larger;  
   color: rgb(240, 240, 240);
   text-align: center;  
@@ -53,7 +53,7 @@ body {
   border-radius: 10px;
   color: rgb(240, 240, 240);
   background-color: black;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   box-sizing: border-box;
 }
 .box1 h2 {
@@ -81,21 +81,28 @@ body {
 }
 .projects h4 {
   text-align: center;
-  font-size: 30px;    
+  font-size: 30px;
+  margin-bottom: 15px;    
 }
 .projects a {
   font-size: large;
 }
 .project-card {
+  margin-left: 22px;
   border: solid 1px rgb(240, 240, 240);
   border-radius: 10px;  
   background-color: black;
   box-shadow: 0 2px 2px 0 rgba(255, 254, 254, 0.897);   
   width: 90%;
-  height: 90%; 
+  height: 90%;   
 }
 .project-card:hover {
   box-shadow: 0 10px 10px 0 rgba(255, 254, 254, 0.897);
+}
+.card-body ul {
+  margin-top: 0px;
+  margin-right: 35px;
+  text-align: center;
 }
 .quote {
   font-size: medium;
