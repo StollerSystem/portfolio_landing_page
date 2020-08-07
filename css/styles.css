@@ -47,6 +47,7 @@ body {
 .projects {  
   border: solid 1px rgb(240, 240, 240);
   margin: auto;
+  margin-bottom: 20px;
   padding: 20px;  
   color: rgb(240, 240, 240);
   text-align: center
