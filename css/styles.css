@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+img {
+  margin: auto;
+  width: 25%;
+}
+
+#main_name {
+  color: white;
+  text-align: center;
+}
