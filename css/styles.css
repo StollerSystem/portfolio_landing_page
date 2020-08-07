@@ -1,4 +1,6 @@
 body {
+  background-image: url("https://images.unsplash.com/photo-1534841090574-cba2d662b62e?ixlib=rb-1.2.1&auto=format&fit=crop&w=2134&q=80");
+  opacity: 0.8;
   background-color: black;
 }
 .center-image {    
@@ -38,10 +40,6 @@ body {
 .box1 h5 {
   text-align: center;
 }
-/* .box1 img {
-  width: 15%;
-  float: right;
-} */
 .column {  
   width: 33%;
   float: left;
@@ -57,12 +55,17 @@ body {
   list-style: none;
 }
 .projects h4 {
-  text-align: left;
+  text-align: center;
   font-size: 30px;    
 }
 .projects a {
   font-size: large;
 }
+.quote {
+  font-size: medium;
+  text-align: center;  
+} 
+
 a:link {
   color:  rgb(1, 228, 20);
 }
