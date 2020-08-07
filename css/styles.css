@@ -12,7 +12,7 @@ body {
   border-radius: 10px; 
   background-color: black;
   margin-bottom: 10px;
-  margin-top: 10px;
+  margin-top: 15px;
   box-sizing: border-box;
 }
 .blockquote-footer {
@@ -95,4 +95,7 @@ a:hover {
 }
 a:active {
   color: blue;
+}
+#copywrite {
+  color: white;
 }

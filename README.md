@@ -1,15 +1,15 @@
 # Portfolio Landing Page
 
-#### A webpage acting as a landing page for my programming portfolio 08/072020
+#### A site acting as a landing page for my programming portfolio, built 08/07/2020
 #### By Ben Stoller
 
-## Link to sight:
+## Link to GH-Page:
 
 
 
 ## Description
 
-This is a project to demonstrate different techniques using HTML and CSS styilizing. Later it will function as a landing page for my programmig portfolio. 
+This is a project to demonstrate different HTML tags (such as p, h, ul, ol, li, em, strong, a, img, div, and span) and CSS styilizing (such as typography, cascading, the box model, and floats). Later it will function as a landing page for my programmig portfolio. 
 
 ## Setup/Installation Requirements
 
