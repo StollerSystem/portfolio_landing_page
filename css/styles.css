@@ -21,3 +21,16 @@ img {
   color: white;
   background-color: black;
 }
+
+.projects {  
+  border: solid 5px white;
+  margin: auto;
+  font: larger;  
+  color: white;
+  text-align: center
+}
+
+.projects ul {
+  list-style: none;
+}
+
