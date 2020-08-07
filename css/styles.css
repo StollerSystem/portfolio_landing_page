@@ -3,11 +3,21 @@ body {
 }
 
 img {
+  border: solid 5px white;
   margin: auto;
   width: 25%;
 }
 
 #main_name {
+  border: solid 5px white;
+  margin: auto;
+  font: larger;  
   color: white;
   text-align: center;
+}
+
+#about_me {
+  border: solid 5px white;
+  color: white;
+  background-color: black;
 }
