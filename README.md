@@ -3,7 +3,7 @@
 #### A site acting as a landing page for my programming portfolio, built 08/07/2020
 #### By Ben Stoller
 
-## Link to GH-Page:
+## Link to GitHub Pages:
 
 
 
