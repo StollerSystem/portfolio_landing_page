@@ -10,6 +10,11 @@ body {
   display: block;
 }
 
+/* .box1 img {
+  width: 20%;
+  float: inline right;
+} */
+
 /* img {
   float: right;
   border: solid 5px white;
@@ -18,30 +23,34 @@ body {
 } */
 
 #main_name {
-  border: solid 5px white;
+  margin-top: 50px;
+  letter-spacing: 10px;
+  font-size: 60px;
+  font-family: fantasy;
+  padding: 5px;
   margin: auto;
   font: larger;  
-  color: white;
+  color: rgb(240, 240, 240);
   text-align: center;
   
 }
 
 .box1 {
   margin: auto;
-  width: 75%;
+  width: 85%;
   padding: 20px;
-  border: solid 5px white;
-  color: white;
+  border: solid 1px rgb(240, 240, 240);
+  color: rgb(240, 240, 240);
   background-color: black;
   margin-bottom: 10px;
   box-sizing: border-box;
 }
 
 .projects {  
-  border: solid 5px white;
+  border: solid 1px rgb(240, 240, 240);
   margin: auto;
   font: larger;  
-  color: white;
+  color: rgb(240, 240, 240);
   text-align: center
 }
 
@@ -49,3 +58,21 @@ body {
   list-style: none;
 }
 
+.projects h4 {
+  text-align: left;
+  font: larger;
+  
+}
+
+a:link {
+  color:  rgb(1, 228, 20);
+}
+a:visited {
+  color: rgb(1, 228, 20);
+}
+a:hover {
+  color: rgb(34, 56, 255);
+}
+a:active {
+  color: blue;
+}
