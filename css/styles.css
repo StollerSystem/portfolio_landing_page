@@ -38,11 +38,18 @@ body {
 .box1 h5 {
   text-align: center;
 }
+/* .box1 img {
+  width: 15%;
+  float: right;
+} */
+.column {  
+  width: 33%;
+  float: left;
+}
 .projects {  
   border: solid 1px rgb(240, 240, 240);
   margin: auto;
-  padding: 20px
-  /* font: larger;   */
+  padding: 20px;  
   color: rgb(240, 240, 240);
   text-align: center
 }
