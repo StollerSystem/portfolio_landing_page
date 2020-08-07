@@ -8,12 +8,16 @@ body {
   margin: auto;
   width: 85%;
   padding: 5px;
-  border: solid 1px rgb(240, 240, 240); 
+  border: solid 1px rgb(240, 240, 240);
+  box-shadow: 0 4px 4px 0 rgba(255, 254, 254, 0.897); 
   border-radius: 10px; 
   background-color: black;
   margin-bottom: 10px;
   margin-top: 15px;
   box-sizing: border-box;
+}
+.top-section img {
+  border: solid 1px rgb(240, 240, 240); 
 }
 .blockquote-footer {
   text-align: center;
@@ -45,6 +49,7 @@ body {
   width: 85%;
   padding: 10px;
   border: solid 1px rgb(240, 240, 240);
+  box-shadow: 0 4px 4px 0 rgba(255, 254, 254, 0.897);
   border-radius: 10px;
   color: rgb(240, 240, 240);
   background-color: black;
@@ -64,6 +69,7 @@ body {
 }
 .projects {  
   border: solid 1px rgb(240, 240, 240);
+  box-shadow: 0 4px 4px 0 rgba(255, 254, 254, 0.897);
   margin: auto;
   margin-bottom: 10px;
   padding: 20px;  
@@ -80,28 +86,16 @@ body {
 .projects a {
   font-size: large;
 }
-.project-box {
-  border: solid 1px rgb(240, 240, 240); 
-  border-radius: 10px;
-  /* margin: auto; */
-  padding: 0%;
-  /* margin-top: 2px;
-  margin-right: 2px;
-  margin-bottom: 2px;  
-  margin-left: 2px; */
-  width: 60px;
-  color: rgb(240, 240, 240);
-}
 .project-card {
   border: solid 1px rgb(240, 240, 240);
   border-radius: 10px;  
   background-color: black;
-  box-shadow: 0 4px 4px 0 rgba(255, 254, 254, 0.897);   
+  box-shadow: 0 2px 2px 0 rgba(255, 254, 254, 0.897);   
   width: 90%;
   height: 90%; 
 }
 .project-card:hover {
-  box-shadow: 0 8px 8px 0 rgba(255, 254, 254, 0.897);
+  box-shadow: 0 10px 10px 0 rgba(255, 254, 254, 0.897);
 }
 .quote {
   font-size: medium;
