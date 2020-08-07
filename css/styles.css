@@ -16,7 +16,7 @@ img {
   text-align: center;
 }
 
-#about_me {
+.box1 {
   border: solid 5px white;
   color: white;
   background-color: black;
