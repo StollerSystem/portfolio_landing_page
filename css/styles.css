@@ -1,27 +1,15 @@
 body {
   background-color: black;
 }
-
-.center-image {  
-  
+.center-image {    
   margin: auto;
   width: 40%;
   height: auto;
   display: block;
 }
-
-/* .box1 img {
-  width: 20%;
-  float: inline right;
-} */
-
-/* img {
-  float: right;
-  border: solid 5px white;
-  margin: auto;
-  width: 25%;
-} */
-
+.highlight {
+  font-style: italic;
+}
 #main_name {
   margin-top: 50px;
   letter-spacing: 10px;
@@ -31,10 +19,8 @@ body {
   margin: auto;
   font: larger;  
   color: rgb(240, 240, 240);
-  text-align: center;
-  
+  text-align: center;  
 }
-
 .box1 {
   margin: auto;
   width: 85%;
@@ -45,25 +31,31 @@ body {
   margin-bottom: 10px;
   box-sizing: border-box;
 }
-
+.box1 h2 {
+  text-align: left;
+  font-size: 30px;
+}
+.box1 h5 {
+  text-align: center;
+}
 .projects {  
   border: solid 1px rgb(240, 240, 240);
   margin: auto;
-  font: larger;  
+  padding: 20px
+  /* font: larger;   */
   color: rgb(240, 240, 240);
   text-align: center
 }
-
 .projects ul {
   list-style: none;
 }
-
 .projects h4 {
   text-align: left;
-  font: larger;
-  
+  font-size: 30px;    
 }
-
+.projects a {
+  font-size: large;
+}
 a:link {
   color:  rgb(1, 228, 20);
 }
