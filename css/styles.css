@@ -34,12 +34,11 @@ body {
 }
 #main_name {
   margin-top: 10px;
-  letter-spacing: 25px;
-  font-size: 65px;
-  font-family: fantasy;
+  letter-spacing: 17px;
+  font-size: 65px;  
   padding: 5px;
   margin: auto;
-  margin-left: 25px;
+  margin-left: 14px;
   font: larger;  
   color: rgb(240, 240, 240);
   text-align: center;  
